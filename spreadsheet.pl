@@ -56,7 +56,7 @@ my %POITransations;
 
 my $F7D2D = $ENV{'F7D2D'};
 
-my $rootDir = '/home/jfraz/seedGen';
+my $rootDir = '/home/jfrazierjr/seedGen';
 my $specialsDir = $rootDir . "/special";
 
 my $previewsDir = $F7D2D . "/previews";
